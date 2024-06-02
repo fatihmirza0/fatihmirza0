@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @fatihmirza0
+- 👋 Hi, I’m Fatih
 - 👀 I’m interested in Android Development!
 - 🌱 I’m currently learning Flutter and Kotlin
